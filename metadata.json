@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nutrition Assistant AI",
+  "description": "A React web application that converts meal descriptions or images into structured nutritional data including calories, macronutrients, and confidence, using the Gemini API.",
+  "requestFramePermissions": []
+}
